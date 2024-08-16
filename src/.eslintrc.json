@@ -1,0 +1,9 @@
+// .eslintrc.json
+{
+    "extends": ["react-app", "eslint:recommended", "plugin:@typescript-eslint/recommended"],
+    "rules": {
+      "no-unused-vars": "warn",
+      "no-console": "off"
+    }
+  }
+  
